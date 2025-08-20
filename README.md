@@ -1,5 +1,5 @@
 <h1 align="center">💫 hi, i'm finn</h3>
-<h3 align="center">a student from somewhere of vietnam</h3>
+<h3 align="center">a student from somewhere in vietnam</h3>
 
 - 🏫 I'm currently learning Golang, Rust
 
