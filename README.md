@@ -1,19 +1,42 @@
-<h1 align="center">💫 hi, i'm finn</h3>
-<h3 align="center">a student from somewhere in vietnam</h3>
+<h1 align="center">Hi there, I'm Finn! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-- 🏫 I'm currently learning Golang, Rust
+### 👨‍💻 About Me
 
-# 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/finntrannn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/finntrannn) 
+- 🎓 Currently surviving 12th grade and grinding for the National High School Exam.
+- 🛠️ Tinkering with **JavaScript**, **TypeScript**, **ESP32**, **Networking**,...
+- 📫 Reach me out: [Facebook](https://facebook.com/finntrannn) | [Instagram](https://instagram.com/finntrannn) | [finn.id.vn](https://finn.id.vn)
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=finntrannn&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=finntrannn&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=finntrannn&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<hr style="height: 0.5px;">
 
----
-[![](https://visitcount.itsvg.in/api?id=finntrannn&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 My Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+**Languages**<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Hardware & Networking**<br>
+![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F6822B.svg?style=for-the-badge&logo=platformio&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2.svg?style=for-the-badge&logo=openwrt&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-f5f5f5.svg?style=for-the-badge&logo=tailscale&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+<hr style="height: 0.5px;">
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=finntrannn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=500" alt="Finn's GitHub stats"  height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=finntrannn&theme=tokyonight&hide_border=true&background=0D1117&card_width=500" alt="Finn's GitHub streak"  height="150" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finntrannn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=385" alt="Top Languages"/>
+</div>
+
+<hr style="height: 0.5px;">
+<p align="center"><i>"Code, build, and try not to break production."</i></p>
