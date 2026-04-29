@@ -32,10 +32,10 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=finntrannn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=500" alt="Finn's GitHub stats"  height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=finntrannn&theme=tokyonight&hide_border=true&background=0D1117&card_width=500" alt="Finn's GitHub streak"  height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=finntrannn&show_icons=true&theme=dracula&hide_border=true&card_width=500" alt="Finn's GitHub stats"  height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=finntrannn&theme=dracula&hide_border=true&card_width=500" alt="Finn's GitHub streak"  height="150" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finntrannn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=385" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finntrannn&layout=compact&theme=dracula&hide_border=true&card_width=385" alt="Top Languages"/>
 </div>
 
 <hr style="height: 0.5px;">
